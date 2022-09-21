@@ -1,0 +1,11 @@
+form {
+    display: flex;
+}
+
+form input[type="text"] {
+    width: 12rem;
+    margin-right: 10px;
+}
+#items li button {
+    float: right;
+}
